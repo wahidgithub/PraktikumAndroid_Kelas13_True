@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Praktikum Android Kelas 13</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="result">Result</string>
+    <string name="logo">Logo</string>
+    <string name="npm">NPM</string>
+    <string name="name">Name</string>
+    <string name="ipk">ipk</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_with_intent">Send With Intent</string>
+    <string name="send_with_intent_parcelable">Send With Intent Parcelable</string>
+    <string name="call">Call</string>
+    <string name="language_option">Language option</string>
+</resources>
